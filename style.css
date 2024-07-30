@@ -135,7 +135,12 @@ body{
     font-weight: bold;
     color: #3f8181;
     gap: 5px;
+    padding: 20px 0;
 
+}
+a{
+    text-decoration: none;
+    color:  #024846;
 }
 .left_p{
     cursor: pointer;
